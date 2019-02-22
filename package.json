@@ -9,10 +9,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "parcel-bundler": "^1.9.7"
   },
-  "dependencies": {
-    "partial.lenses": "^14.0.0",
-    "ramda": "^0.25.0"
-  },
+  "dependencies": {},
   "name": "javascript-lessons",
   "version": "1.0.0",
   "main": "index.js",
